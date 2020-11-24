@@ -1,6 +1,6 @@
 # Pokemon Tutorial Notebooks
 
-Blogs:
+Notebooks:
 
 - Pull API Data
 - Add More Data
